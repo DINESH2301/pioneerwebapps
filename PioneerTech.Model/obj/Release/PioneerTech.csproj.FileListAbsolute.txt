@@ -1,0 +1,5 @@
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\bin\Release\PioneerTech.dll
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\bin\Release\PioneerTech.pdb
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\obj\Release\PioneerTech.csprojResolveAssemblyReference.cache
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\obj\Release\PioneerTech.dll
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\obj\Release\PioneerTech.pdb

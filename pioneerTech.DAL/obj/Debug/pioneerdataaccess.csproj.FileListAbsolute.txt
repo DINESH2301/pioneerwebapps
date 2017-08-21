@@ -1,0 +1,14 @@
+C:\Users\dines\onedrive\documents\visual studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\obj\Debug\pioneerdataaccess.csprojResolveAssemblyReference.cache
+C:\Users\dines\onedrive\documents\visual studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\bin\Debug\pioneerdataaccess.dll
+C:\Users\dines\onedrive\documents\visual studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\bin\Debug\pioneerdataaccess.pdb
+C:\Users\dines\onedrive\documents\visual studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\obj\Debug\pioneerdataaccess.dll
+C:\Users\dines\onedrive\documents\visual studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\obj\Debug\pioneerdataaccess.pdb
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\bin\Debug\PioneerTech.dll
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\pioneerdataaccess\bin\Debug\PioneerTech.pdb
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Debug\pioneerdataaccess.dll
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Debug\pioneerdataaccess.pdb
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Debug\PioneerTech.dll
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Debug\PioneerTech.pdb
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\obj\Debug\pioneerdataaccess.csprojResolveAssemblyReference.cache
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\obj\Debug\pioneerdataaccess.dll
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\obj\Debug\pioneerdataaccess.pdb

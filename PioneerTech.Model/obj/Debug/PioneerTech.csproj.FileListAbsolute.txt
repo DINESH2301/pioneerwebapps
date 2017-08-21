@@ -1,0 +1,10 @@
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\PioneerTech\bin\Debug\PioneerTech.dll
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\PioneerTech\bin\Debug\PioneerTech.pdb
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\PioneerTech\obj\Debug\PioneerTech.csprojResolveAssemblyReference.cache
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\PioneerTech\obj\Debug\PioneerTech.dll
+C:\Users\dines\OneDrive\Documents\Visual Studio 2017\Projects\pioneertestconsultancysystem\PioneerTech\obj\Debug\PioneerTech.pdb
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\bin\Debug\PioneerTech.dll
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\bin\Debug\PioneerTech.pdb
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\obj\Debug\PioneerTech.csprojResolveAssemblyReference.cache
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\obj\Debug\PioneerTech.dll
+E:\Study\DotnetProjects\WebProjects\PioneerTech.Model\obj\Debug\PioneerTech.pdb

@@ -1,0 +1,7 @@
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Release\pioneerdataaccess.dll
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Release\pioneerdataaccess.pdb
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Release\PioneerTech.dll
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\bin\Release\PioneerTech.pdb
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\obj\Release\pioneerdataaccess.csprojResolveAssemblyReference.cache
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\obj\Release\pioneerdataaccess.dll
+E:\Study\DotnetProjects\WebProjects\pioneerTech.DAL\obj\Release\pioneerdataaccess.pdb
